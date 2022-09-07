@@ -1,7 +1,30 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "status": "UNAVAILABLE"
-  }
+  "range": "'スポットデータ'!A1:J84",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "公式サイト"
+    ],
+    [
+      "2022/06/19 10:10:10",
+      "世界遺産",
+      "https://kaigo-ryoko.com/wp-content/uploads/2021/01/1588946_1500-1.jpg",
+      "34.991754",
+      "135.751332",
+      "西本願寺",
+      "世界遺産に登録されている浄土真宗本願寺派の寺院",
+      "",
+      "@nishi_hongwanji",
+      "https://www.hongwanji.kyoto/"
+    ]
+  ]
 }
